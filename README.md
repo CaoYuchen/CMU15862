@@ -1,2 +1,2 @@
 # CMU15862
-CMU computer graphics
+CMU computer photography
